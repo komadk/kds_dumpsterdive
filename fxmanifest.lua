@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'KD-Scripts'
 description 'Dumpster Dive script by KD-Scripts'
-version '1.0.0'
+version '1.0.0' -- New version available v1.1.0
 
 shared_scripts {
     '@es_extended/imports.lua',
