@@ -40,7 +40,6 @@ The script can be configured in the `config.lua` file:
 
 Players can:
 - Use the ox_target interaction to search dumpsters and trash cans
-- Alternatively use the bindable command `/searchnearestbin`
 
 Admins can:
 - Use the `/dumpsterreward [type]` command to test rewards (type: 'dumpster' or 'trashcan')
